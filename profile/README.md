@@ -17,8 +17,6 @@
 - 💬 How to contact with us by writing both **acayuela@cnio.es/ipeset@cnio.es**
 
 - 📫 How to reach us **https://www.cnio.es/investigacion-e-innovacion/programas-cientificos/programa-de-biotecnologia/unidad-de-microscopia-confocal/**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
